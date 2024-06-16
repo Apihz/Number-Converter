@@ -60,7 +60,7 @@ onMounted(() => {
       picture: "koceng.jpg"
     }
   ];
-});
+});// removed khan
 </script>
 
 <style scoped>
